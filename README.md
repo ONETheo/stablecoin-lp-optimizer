@@ -77,7 +77,7 @@ Below are the 90-day volatility plots and average daily statistics for the top 5
 
 ### 1. USDC.e / USDT
 
-![USDC.e/USDT 90d Volatility Plot](output/USDC.e-USDT_volatility.png)
+![shadow_USDCe_USDT_0x9053fe_daily_pct_change_20250416_214143](https://github.com/user-attachments/assets/98936734-f5f0-4739-a7b3-9cf4f09165c8)
 
 - **Avg Daily TVL:** $4.52M
 - **Avg Daily Volume:** $4.77M
@@ -86,7 +86,7 @@ Below are the 90-day volatility plots and average daily statistics for the top 5
 
 ### 2. wstkscUSD / scUSD
 
-![wstkscUSD/scUSD 90d Volatility Plot](output/wstkscUSD-scUSD_volatility.png)
+![shadow_wstkscUSD_scUSD_0x81eb3d_daily_pct_change_20250416_214147](https://github.com/user-attachments/assets/bba8f65d-2014-4c79-a8b2-337b6b8269e6)
 
 - **Avg Daily TVL:** $155K
 - **Avg Daily Volume:** $276K
@@ -95,7 +95,7 @@ Below are the 90-day volatility plots and average daily statistics for the top 5
 
 ### 3. USDC.e / scUSD
 
-![USDC.e/scUSD 90d Volatility Plot](output/USDC.e-scUSD_volatility.png)
+![shadow_USDCe_scUSD_0x2c1338_daily_pct_change_20250416_214141](https://github.com/user-attachments/assets/10d78d71-057a-48dc-b3be-021f31775ccd)
 
 - **Avg Daily TVL:** $5.87M
 - **Avg Daily Volume:** $4.15M
@@ -104,7 +104,7 @@ Below are the 90-day volatility plots and average daily statistics for the top 5
 
 ### 4. USDC.e / xUSD
 
-![USDC.e/xUSD 90d Volatility Plot](output/USDC.e-xUSD_volatility.png)
+![shadow_USDCe_xUSD_0x5d4788_daily_pct_change_20250416_214145](https://github.com/user-attachments/assets/6bf4ad69-c631-4f3a-807e-35c586b62ba0)
 
 - **Avg Daily TVL:** $572K
 - **Avg Daily Volume:** $80K
@@ -113,7 +113,7 @@ Below are the 90-day volatility plots and average daily statistics for the top 5
 
 ### 5. USDC.e / EURC.e
 
-![USDC.e/EURC.e 90d Volatility Plot](output/USDC.e-EURC.e_volatility.png)
+![shadow_USDCe_EURCe_0xca1f88_daily_pct_change_20250416_214150](https://github.com/user-attachments/assets/bb80b2db-c981-4156-b09c-748a9b389940)
 
 - **Avg Daily TVL:** $131K
 - **Avg Daily Volume:** $168K
