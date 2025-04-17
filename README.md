@@ -149,3 +149,7 @@ lp-optimizer/
 ├── requirements.txt        # Python dependencies
 └── README.md
 ```
+
+## License
+
+MIT License
